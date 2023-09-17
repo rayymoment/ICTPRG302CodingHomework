@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 # Obtain answer from user and determining that within our code.
 number=int(input("Please enter a number ranging from 1 to 4: "))
 i = number
