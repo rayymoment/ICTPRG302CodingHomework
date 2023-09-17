@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Detemrining user's hourly pay rate, number of hours worked, gross pay, withoholding tax percentage, witholding tax and net pay.
 hourlypayrate=int(input("Please enter your hourly pay rate: "))
 
