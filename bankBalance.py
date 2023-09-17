@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Obtain bank and savings balance from user
 checkingbal=int(input("Please enter your checking balance: "))
 savingsbal=int(input("Please enter your savings balance: "))
