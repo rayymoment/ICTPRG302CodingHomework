@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Obtaining user's score
 score=int(input("Please enter your test score: "))
 
