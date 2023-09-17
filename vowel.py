@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Prompting user to enter a letter
 
 letter=input("Please enter a letter to check if it is a vowel: ")
