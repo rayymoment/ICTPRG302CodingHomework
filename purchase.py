@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 # Creating variables to hold the user's invoice number, sales amount and sales tax.
 sales_amount=int(input("Please input the sales amount: "))
 invoice_number=int(input("Please enter your invoice number."))
