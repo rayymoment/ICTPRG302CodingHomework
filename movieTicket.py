@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Gathering user's age and the rating they wish to view.
 age=int(input("Please enter your age: "))
 
