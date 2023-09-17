@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Obtain Dog size and length of stay
 dogsize=int(input("Please enter your dog's weight: "))
 stay=int(input("How long will your dog will stay with us: "))
