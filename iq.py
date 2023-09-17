@@ -1,3 +1,5 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
 
 #ISSUE: INVALID IQ AND BELOW AVERAGE TRIGGER WHEN INVALID ANSWER GIVEN
 
