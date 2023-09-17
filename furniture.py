@@ -1,3 +1,6 @@
+# Copyright 2022, Rayyan Hodges, TAFE NSW
+# rayyan.hodges@studytafensw.edu.au
+
 #Getting user to choose type of wood
 woodtype=int(input("Please select the type of wood you would like to use (1 for pine, 2 for oak): "))
 
